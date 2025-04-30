@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Change 3 - Shira Stein")
+        Text("Change 3 - Maya and Shira Stein")
             .font(.largeTitle)
             .foregroundColor(Color.purple)
     }
